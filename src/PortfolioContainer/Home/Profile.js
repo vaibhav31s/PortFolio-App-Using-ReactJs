@@ -6,7 +6,7 @@ export default function Profile() {
         <div className='profile-parent'>
             <div className='profile-details'>
                 <div className='colz'>
-                    Vaibhav Gawad On Your Service Sir
+                    Vaibhav Gawad At Your Service Sir
                                     
                     <i class="fa-solid fa-user"></i>
                     <i class="fa-regular fa-user"></i>
